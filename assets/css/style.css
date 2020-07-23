@@ -8,10 +8,7 @@
 }
 
 .horse{
-    position: absolute;
-    width: 250px;
-    height: 320px;
-    background: none;
-    top: 50%;
-    left: 50%;
+    position: fixed;
+    bottom: 0;
+    right: 0;
 }
