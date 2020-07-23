@@ -1,0 +1,17 @@
+@import url('https://fonts.googleapis.com/css2?family=Rock+Salt&display=swap');
+
+.text{
+
+    margin: 5px;
+    padding: 10px;
+    font-family:'Rock Salt', cursive;
+}
+
+.horse{
+    position: absolute;
+    width: 250px;
+    height: 320px;
+    background: none;
+    top: 50%;
+    left: 50%;
+}
