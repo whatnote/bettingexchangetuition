@@ -22,6 +22,17 @@ navbar-toggler{
     background-size:cover;    
 }
 
+.horse{
+    height: 25vh;
+    width: 100%;
+    position: relative;
+    background: url("images/horse-racing-neck-and-neck.jpg")no-repeat center center ;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -O-background-size:cover;
+    background-size:cover;    
+}
+
 /*------------------------------footer */
 
 
