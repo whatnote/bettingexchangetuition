@@ -5,6 +5,22 @@ a{
     font-weight: 800;
 }
 
+navbar-toggler{
+    
+}
+
+
+/*------------------------------background pictures */
+.index{
+    height: 60vh;
+    width: 100%;
+    position: relative;
+    background: url("images/headerfacebook.jpg")no-repeat center center ;
+    -webkit-background-size:cover;
+    -moz-background-size:cover;
+    -O-background-size:cover;
+    background-size:cover;    
+}
 
 /*------------------------------footer */
 
@@ -28,7 +44,7 @@ a{
 .ptext{
     color:#696666;
     text-align: center; 
-    font-family:'Baloo Tamma 2', cursive;
+    font-family: Questrial, sans-serif;
     font-size: 16px;
     padding: 1px;
 }
@@ -36,7 +52,7 @@ a{
 .makerlink{
     color:black;
     text-align: center; 
-    font-family:Questrial, sans-serif;
+    font-family: Questrial, sans-serif;
     font-size: 16px;
 
 }
