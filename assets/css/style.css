@@ -5,8 +5,10 @@ a{
     font-weight: 800;
 }
 
-navbar-toggler{
-    
+
+.video{
+    padding-top: 2vh;
+    padding-bottom: 2vh;
 }
 
 
