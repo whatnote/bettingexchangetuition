@@ -5,6 +5,12 @@ a{
     font-weight: 800;
 }
 
+/*-----Padding ---*/
+
+.hero{
+
+    padding-top: 2vh;
+}
 
 .video{
     padding-top: 2vh;
@@ -14,8 +20,8 @@ a{
 
 /*------------------------------background pictures */
 .index{
-    height: 25vh;
-    width: 100%;
+    height: 200px;
+    
     position: relative;
     background: url("images/websitebanner.jpg")no-repeat center center ;
     -webkit-background-size:cover;
@@ -26,7 +32,7 @@ a{
 
 .horse{
     height: 25vh;
-    width: 100%;
+    
     position: relative;
     background: url("images/horse-racing-neck-and-neck.jpg")no-repeat center center ;
     -webkit-background-size:cover;
@@ -69,3 +75,15 @@ a{
     font-size: 16px;
 
 }
+
+
+
+/*----Media query - Hero imagage maz width---*/
+
+@media screen and (min-width: 992px) 
+{
+    .index, .horse{
+    height: 25vh;
+    }
+}
+
