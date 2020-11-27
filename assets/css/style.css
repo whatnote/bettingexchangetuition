@@ -9,6 +9,21 @@ a{
     color: lightslategray;
 }
 
+.headingtext{
+    color: lightslategray;
+    font-family:Questrial, sans-serif;
+    font-size: 15px;
+    padding-top: 1vh;
+    
+    padding-left: 1vh;
+}
+
+.columnpadding{
+    padding-top: 1vh;
+    
+    padding-left: 1vh;
+    padding-right: 1vh;
+}
 
 /*-----Padding ---*/
 
